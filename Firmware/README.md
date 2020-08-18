@@ -1,6 +1,6 @@
 ## Version - 2020-08-18
 ### Motherboard
-The latest version: `Marlin 2.0.6 (Aug 18 2020 13:35:50)`
+The latest version: `Marlin 2.0.6 (Aug 18 2020 16:05:22)`
  * Update Marlin version to v2.0.6
  * Add the function of saving "babystep value" to EEPROM,
 
