@@ -1,6 +1,6 @@
 ## Version - 2020-08-18
 ### Motherboard
-The latest version: `Marlin 2.0.6 (Aug 18 2020 16:05:22)`
+The latest version: `Marlin 2.0.6 (Aug 24 2020 15:11:48)` --- (Compared with Aug 18 2020: quick fix - disable `LIN_ADVANCE` Avoid gaps layer in pause/resume printing)
  * Update Marlin version to v2.0.6
  * Add the function of saving "babystep value" to EEPROM,
 
