@@ -9,3 +9,5 @@
 
 ## TF card data
   * the `TF card data` folder is the data in TF card that comes with this machine, It contains the pre-export gcode file for test machine, configuration file of Cura and user manual
+  * "Pokémon" ([High-Poly Realistic Bulbasaur by 3DCentralVA](https://www.thingiverse.com/thing:1576163)) _[Creative Commons - Attribution - Share Alike](https://creativecommons.org/licenses/by-sa/3.0/)_
+  * "Little Bear" ([Bear shaped piggy bank by Micropuller](https://www.thingiverse.com/thing:164493)) _[Creative Commons - Attribution - Share Alike](https://creativecommons.org/licenses/by-sa/3.0/)_
